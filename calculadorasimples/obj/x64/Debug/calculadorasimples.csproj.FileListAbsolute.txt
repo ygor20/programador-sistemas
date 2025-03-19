@@ -1,0 +1,10 @@
+C:\Users\ygor.aoliveira\source\Programadordesistemas\calculadorasimples\bin\x64\Debug\calculadorasimples.exe.config
+C:\Users\ygor.aoliveira\source\Programadordesistemas\calculadorasimples\bin\x64\Debug\calculadorasimples.exe
+C:\Users\ygor.aoliveira\source\Programadordesistemas\calculadorasimples\bin\x64\Debug\calculadorasimples.pdb
+C:\Users\ygor.aoliveira\source\Programadordesistemas\calculadorasimples\obj\x64\Debug\calculadorasimples.csproj.AssemblyReference.cache
+C:\Users\ygor.aoliveira\source\Programadordesistemas\calculadorasimples\obj\x64\Debug\calculadorasimples.frmCalculadoraSimples.resources
+C:\Users\ygor.aoliveira\source\Programadordesistemas\calculadorasimples\obj\x64\Debug\calculadorasimples.Properties.Resources.resources
+C:\Users\ygor.aoliveira\source\Programadordesistemas\calculadorasimples\obj\x64\Debug\calculadorasimples.csproj.GenerateResource.cache
+C:\Users\ygor.aoliveira\source\Programadordesistemas\calculadorasimples\obj\x64\Debug\calculadorasimples.csproj.CoreCompileInputs.cache
+C:\Users\ygor.aoliveira\source\Programadordesistemas\calculadorasimples\obj\x64\Debug\calculadorasimples.exe
+C:\Users\ygor.aoliveira\source\Programadordesistemas\calculadorasimples\obj\x64\Debug\calculadorasimples.pdb
